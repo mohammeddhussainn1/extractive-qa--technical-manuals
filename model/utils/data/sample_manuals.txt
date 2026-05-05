@@ -1,0 +1,9 @@
+A router is a networking device that forwards data packets between computer networks.
+
+A switch connects devices within a local area network and uses MAC addresses to forward data.
+
+A firewall is a network security device that monitors incoming and outgoing traffic.
+
+Technical manuals provide instructions, troubleshooting steps, and device specifications.
+
+Extractive Question Answering systems extract the answer directly from the provided text.
